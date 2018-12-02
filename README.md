@@ -1,5 +1,5 @@
 # mybatis-generator
-MyBatis-generator 自动生成MyBatis代码
+###MyBatis-generator 自动生成MyBatis代码
 
 如果想要自动生成注释，请修改 generatorConfig.xml配置
 
